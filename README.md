@@ -1,6 +1,6 @@
-WikiCircuito ULTRA
+WikiCircuito PRO
 
-O WikiCircuito ULTRA é uma aplicação web desenvolvida em Python com Streamlit, voltada para ambientes educacionais (laboratórios escolares e técnicos).
+O WikiCircuito PRO é uma aplicação web desenvolvida em Python com Streamlit, voltada para ambientes educacionais (laboratórios escolares e técnicos).
 Ela permite o gerenciamento e a visualização de projetos eletrônicos, componentes, QR Codes e estoque, com funcionalidades diferentes para Aluno e Técnico.
 
 🚀 Funcionalidades
